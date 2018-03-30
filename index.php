@@ -2,6 +2,14 @@
 
 echo "Hola mundo";
 
+
+$var1 = 3;
+$var2 = 4;
+
+$res = $var1 + $var2;
+
+echo $res;
+
 ?>
 <html>
     <head>
